@@ -1,0 +1,11 @@
+# Ignore software downloads and large binaries
+software/
+*.tar.gz
+*.zip
+
+# Ignore large raw/processed data files
+data/raw/
+data/processed/
+
+# Ignore logs
+logs/
